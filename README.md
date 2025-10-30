@@ -32,11 +32,4 @@ This application helps developers visualize JSON data in a structured tree view,
 | **Bootstrap / CSS** | Styling and responsiveness |
 | **GitHub Pages / Netlify / Vercel** | Deployment |
 
----
 
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/Lovaraj02/apiwiz_task.git
-cd apiwiz_task
