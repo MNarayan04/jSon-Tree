@@ -1,0 +1,13 @@
+{
+  "user": {
+    "id": 101,
+    "name": "Raju",
+    "address": {
+      "city": "Kakinada",
+      "zipcode": "533003"
+    }
+  },
+  "tags": ["frontend", "react", "visualizer"],
+  "active": true,
+  "scores": [95, 88, 76]
+}
